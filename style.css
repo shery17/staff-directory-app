@@ -1,0 +1,27 @@
+/* 
+    Theme Name: self-directory-app
+    Author: Shaharyar
+    Description: First project.
+    Version: 1.0
+*/
+
+/* 1. Force the body to take up the full height of the screen */
+html, body {
+    height: 100%;
+}
+
+/* 2. Turn the body into a flex container */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* 3. Tell the main content area to take up all available space */
+main {
+    flex: 1 0 auto;
+}
+
+/* 4. Keep the footer at the bottom */
+footer {
+    flex-shrink: 0;
+}

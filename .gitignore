@@ -1,0 +1,17 @@
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Developer tools
+node_modules/
+.sass-cache/
+npm-debug.log
+yarn-error.log
+
+# SASS/SCSS maps (optional, but keeps repo clean)
+*.css.map
+*.sass.map
+
+# IDE files
+.vscode/
+.idea/
