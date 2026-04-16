@@ -4,7 +4,7 @@ A professional, modular WordPress-based staff directory. This application separa
 
 ## 🌐 Live Demo
 You can view the live, fully functional version of this application here:  
-View Live Staff Directory → https://saurangzeb.com
+View Live Staff Directory → <a href="https://your-site-link.com/staff" target="_blank" rel="noopener noreferrer"><strong>View Live Staff Directory →</strong></a>
 
 ---
 
